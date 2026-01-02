@@ -1,1 +1,1 @@
-console.log("This is update 3rd jan")
+console.log("This is update 3rd jan pulled")

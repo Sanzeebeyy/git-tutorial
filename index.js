@@ -1,1 +1,1 @@
-console.log("index.js 3rd jan")
+console.log("index.js 3rd jan pulled")
